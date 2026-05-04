@@ -2,3 +2,4 @@
 Sample Git hub commands usage
 First line of readme 
 Changes made in github
+changes made in fetch
